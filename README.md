@@ -48,11 +48,3 @@ ___
     1. リスト1.2
 1. リスト2
 1. リスト3
-
-
-# 4 画像とリンク
-***
-[文字](urlや画像)  
-[D研](https://tatsukioike.com/)  
-![image](image/sample.jpg)  
-[![image](image/sample.jpg)](https://www.youtube.com/channel/UCFDyXEywtNhdtwqC3GAkYuA)
